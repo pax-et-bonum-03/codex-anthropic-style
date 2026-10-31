@@ -1,0 +1,15 @@
+*.otf
+*.ttf
+*.woff
+*.woff2
+*.bak
+*.backup.json
+.state/
+artifacts/
+.downloads/
+.env
+.env.*
+auth.json
+config.toml
+*.bundle
+*.private.json

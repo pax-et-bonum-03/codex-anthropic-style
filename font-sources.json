@@ -1,0 +1,62 @@
+{
+  "verified": "2026-10-30",
+  "notice": "Proprietary fonts. No font binaries or font license are included. Use only fonts you are entitled to use.",
+  "fonts": [
+    {
+      "file": "AnthropicSans-Text-Medium-Static.otf",
+      "label": "Anthropic Sans Text Medium (OpenType)",
+      "url": "https://assets.claude.ai/Fonts/AnthropicSans-Text-Medium-Static.otf",
+      "sha256": "9286e181e9de7bd65bbeec68c5e88159abd89cd0750ea97b6af31da6212c6023",
+      "bytes": 61528
+    },
+    {
+      "file": "AnthropicSans-Text-Regular-Static.otf",
+      "label": "Anthropic Sans Text Regular (OpenType)",
+      "url": "https://assets.claude.ai/Fonts/AnthropicSans-Text-Regular-Static.otf",
+      "sha256": "9fdf9048587cf014deb4d6e049b92f5c1689bd3a14f12d18c4c7a3b77da6fcdb",
+      "bytes": 61144
+    },
+    {
+      "file": "AnthropicSans-Text-Semibold-Static.otf",
+      "label": "Anthropic Sans Text Semibold (OpenType)",
+      "url": "https://assets.claude.ai/Fonts/AnthropicSans-Text-Semibold-Static.otf",
+      "sha256": "96131bc98138a7f0e0af1367e06cbe08099386025ab84cd5a8a113c5510816af",
+      "bytes": 62380
+    },
+    {
+      "file": "AnthropicSerif-Text-Bold-Static.otf",
+      "label": "Anthropic Serif Text Bold (OpenType)",
+      "url": "https://assets.claude.ai/Fonts/AnthropicSerif-Text-Bold-Static.otf",
+      "sha256": "86bc0a17f9081b272549519ed6ef1fc1553bd199b3e3085ac1324462048d9b99",
+      "bytes": 68096
+    },
+    {
+      "file": "AnthropicSerif-Text-Medium-Static.otf",
+      "label": "Anthropic Serif Text Medium (OpenType)",
+      "url": "https://assets.claude.ai/Fonts/AnthropicSerif-Text-Medium-Static.otf",
+      "sha256": "87b49d2a1582a4d309b4fbcbbb8b6d7dca5e23a8a7519812012896bc02a72582",
+      "bytes": 67528
+    },
+    {
+      "file": "AnthropicSerif-Text-Regular-Static.otf",
+      "label": "Anthropic Serif Text Regular (OpenType)",
+      "url": "https://assets.claude.ai/Fonts/AnthropicSerif-Text-Regular-Static.otf",
+      "sha256": "255ca18a938adc37aa8fb47e9fbfb82562820ee1237a7b6c5bdf2fe6a54b729e",
+      "bytes": 69112
+    },
+    {
+      "file": "AnthropicSerif-Text-Semibold-Static.otf",
+      "label": "Anthropic Serif Text Semibold (OpenType)",
+      "url": "https://assets.claude.ai/Fonts/AnthropicSerif-Text-Semibold-Static.otf",
+      "sha256": "2b5d01e6281cf6186b27c7857ac0392aed36a991d05aba1a26dd95a77182beb1",
+      "bytes": 67496
+    },
+    {
+      "file": "AnthropicMonoVariable.ttf",
+      "label": "Anthropic Mono Variable (TrueType)",
+      "url": null,
+      "sha256": "974d8304ca3ce5db421d4b4aa02cff170d41f5179a7acd155e934f4218d1d803",
+      "bytes": 60516
+    }
+  ]
+}

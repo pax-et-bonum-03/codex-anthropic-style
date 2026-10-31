@@ -1,0 +1,26 @@
+{
+  "codeThemeId": "codex",
+  "variant": "light",
+  "theme": {
+    "accent": "#ca7554",
+    "contrast": 67,
+    "fonts": {
+      "code": "\"Anthropic Mono Variable\", Consolas, monospace",
+      "content": "\"Anthropic Serif Text\", \"Noto Serif SC\", Georgia, serif",
+      "ui": "\"Anthropic Sans Text\", \"Segoe UI\", \"Microsoft YaHei\", sans-serif",
+      "contentFace": {
+        "family": "Anthropic Serif Text",
+        "fullName": "Anthropic Serif Text Medium",
+        "postscriptName": "AnthropicSerifText-Medium"
+      }
+    },
+    "ink": "#141413",
+    "opaqueWindows": true,
+    "semanticColors": {
+      "diffAdded": "#739245",
+      "diffRemoved": "#c37967",
+      "skill": "#ca7554"
+    },
+    "surface": "#f8f6f1"
+  }
+}
